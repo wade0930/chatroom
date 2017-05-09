@@ -1,0 +1,16 @@
+body{
+  margin-left:auto;
+  margin-right: auto;
+}
+form{
+  display:block;
+  margin-top:50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+textarea{
+  overflow-x: hidden;
+}
+#st{
+width:403px;
+}
